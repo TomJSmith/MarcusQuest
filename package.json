@@ -1,0 +1,18 @@
+{
+  "name": "marcus",
+  "version": "1.0.0",
+  "description": "Get notified when the ice cream you crave is available.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Smith",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0",
+    "node-notifier": "^6.0.0",
+    "opn": "^6.0.0"
+  }
+}
