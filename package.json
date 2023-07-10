@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.2",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "moment": "^2.29.2",
     "node-notifier": "^8.0.1",
     "opn": "^6.0.0"
